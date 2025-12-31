@@ -1,0 +1,13 @@
+
+---
+
+### `CITATION.cff`
+```yaml
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+title: "SubMIP methods code (R)"
+authors:
+  - family-names: "Caro Balada"
+    given-names: "Edu"
+repository-code: "https://github.com/Edu-Caro-Balada/submip-methods-code"
+license: MIT
